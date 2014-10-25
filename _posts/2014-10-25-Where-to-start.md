@@ -13,18 +13,19 @@ So I started collecting Ideas.
 At first, I had only this stuff in my mind: I want dragons, I want explainable magic and I want RPG.
 From there I started thinking of the world. How many continents are there? How do they look like? What makes them special?
 My ideas ended up in three continents.
-* **Parn**
+
+* Parn
     * Cold. Ice and Mountains in the north, many volcanoes (especially in the western areas). 
     * Nice infrastructure in the southern areas. The more you go north, the more paces become unreachable
     * People live in average-size cities. If you know Germany, think of something like Brunswick.
     * You wont enter this place until the end of the game. Cause here all the final stuff will happen.
-* **Nep**
+* Nep
     * Warm. Think of Europe.
     * The beginning of the story will take place here.
     * Framing and Technology exist. Both a lot. People like using their Tablets why shaving their sheep.
     * The people really, deeply, HATE changes.
     * People live in cities (the big ones). If not, in villages. There is not a lot of stuff between these two states.
-* **Farn**
+* Farn
     * The treeish continent. Trees everywhere. And forest. And animals. And uhh... People, too
     * People are friendly (mostly)
     * Infrastructure is MEH. Everything is connected, yes.... You should like walking.
@@ -33,6 +34,7 @@ My ideas ended up in three continents.
 
 So now I have a basically structure where stuff will happen. Of course, there aren't any cities yet, but that will be added soon. 
 A more important point at this is, in my opinion, how are these continents related to each other? Is there war? My ideas:
+
 * The continents are independent
 * There IS a worldwide government, but its not fully in charge
 * Islands are not independent. 
