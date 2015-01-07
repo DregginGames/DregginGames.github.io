@@ -16,23 +16,29 @@ To develop a game you need a plan. This here is basically mirroring the [Trello]
  * Write down specifications for the engine
  
  
-#### until 18th
+##### until 18th
  * Write Desing Document
  * Write January blog post
  
  
-#### until 25th
+##### until 25th
  * Finish plot for all 5 chapters
 
-### February
-#### until 1st
+#### February
+
+##### until 1st
  * Story chapter one
-#### until 8th
+
+##### until 8th
  * Story chapter two
-#### until 15th
+
+##### until 15th
  * Story chapter three
-#### until 22th
+
+##### until 22th
  * Story chapter four
-##March
-#### until 1st
+
+###March
+
+##### until 1st
  * Story chapter five
