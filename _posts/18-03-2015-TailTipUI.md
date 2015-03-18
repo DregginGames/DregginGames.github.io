@@ -5,7 +5,7 @@ title: TailTipUI - Building a GUI library!
 
 ### Why?
 So, the biggest question would be WHY, wouldnt it? 
-Why create somthing from scratch wich exists in many different form and variations?
+Why create somthing from scratch wich exists in many different forms and variations?
 
 The reason is more or less simple: Because i can! The best thing for me to understand something is by doing it. 
 How does a GUI work? Well, i didn't know! So lets lern it. 
